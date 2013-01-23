@@ -1,9 +1,13 @@
-sun-java6 (6.38-1) unstable; urgency=low
+sun-java6 (6.38-1) precise; urgency=low
 
+  [ Janusz Dziemidowicz ]
   * Make rules display clearly what files are missing
   * New upstream release
 
- -- Janusz Dziemidowicz <rraptorr@nails.eu.org>  Wed, 12 Dec 2012 11:59:18 +0100
+  [ Brian Engleman (Ops) ]
+  * Initial build for precise
+
+ -- Brian Engleman (Ops) <bengleman@whitepages.com>  Wed, 23 Jan 2013 09:40:02 -0800
 
 sun-java6 (6.37-1) unstable; urgency=high
 
